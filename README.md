@@ -1,2 +1,2 @@
 # scala_tutorial
-https://www.tutorialspoint.com/scala/
+https://www.scala-sbt.org/1.0/docs/ja/index.html
